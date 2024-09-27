@@ -123,3 +123,5 @@ function checkAccount(accountName) {
   }
   return true
 }
+
+// Parei aqui :D
